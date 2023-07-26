@@ -1,0 +1,2 @@
+#root{align-items:center;display:flex;height:100vh;justify-content:center}body{background-color:#8d8d8d}#display{background-color:#b3b3b3;outline:5px solid orange;padding:30px;position:relative;text-align:center;width:660px}.drum-pads{grid-gap:8px 5px;display:grid;gap:8px 5px;grid-template-columns:1fr 1fr 1fr;width:332px}.drum-pad{align-items:center;background-color:grey;border:none;border-radius:5px;box-sizing:border-box;cursor:pointer;display:flex;height:80px;justify-content:center;width:100px}
+/*# sourceMappingURL=main.fa7c2b2b.css.map*/
